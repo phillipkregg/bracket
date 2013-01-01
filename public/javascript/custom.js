@@ -3,7 +3,7 @@ $(document).ready(function() {
 	
 		
 	
-	//$("#navbar").affix();
+	$("#navbar").affix();
 	
 	//$.scrollTo("#regionMidwest");
 	
