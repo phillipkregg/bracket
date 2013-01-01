@@ -5,7 +5,7 @@ $(document).ready(function() {
 	
 	$("#navbar").affix();
 	
-	//$.scrollTo("#regionMidwest");
+	$.scrollTo("#regionMidwest");
 	
 	
 	$("#eastBtn").bind('click', function() {
